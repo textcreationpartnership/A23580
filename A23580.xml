@@ -1,0 +1,479 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short cronycle wherin is mencioned all the names of all the kings of England of the mayers, [and] sheriffes of the cytie of Londo[n] of diuers and many notable actes and thi[n]ges done in [the] sith the time of kige henry [the] fourth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1540</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23580</idno>
+            <idno type="STC">STC 9985.5</idno>
+            <idno type="STC">ESTC S109855</idno>
+            <idno type="EEBO-CITATION">99845498</idno>
+            <idno type="PROQUEST">99845498</idno>
+            <idno type="VID">10403</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23580)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10403)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 61:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short cronycle wherin is mencioned all the names of all the kings of England of the mayers, [and] sheriffes of the cytie of Londo[n] of diuers and many notable actes and thi[n]ges done in [the] sith the time of kige henry [the] fourth.</title>
+               </titleStmt>
+               <extent>[48] p.   </extent>
+               <publicationStmt>
+                  <publisher>In fletestrete, at the signe of the Sonne, by Iohn Byddell,</publisher>
+                  <pubPlace>[Imprynted at London :</pubPlace>
+                  <date>[1540]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon; publication date from STC.</note>
+                  <note>Title page has border (McKerrow and Ferguson 29) with Byddell's name in type in sill--STC.</note>
+                  <note>Signatures: A-C.</note>
+                  <note>Formerly STC 10021.</note>
+                  <note>Identified as STC 10021 on UMI microfilm reel 61.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Chronology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:10403:1" rendition="simple:additions"/>
+            <pb facs="tcp:10403:1"/>
+            <p>A ſhort cro<g ref="char:EOLhyphen"/>nycle, wherin is mencio<g ref="char:EOLhyphen"/>ned all the names of all the kingꝭ of England of the mayers, &amp; ſhi<g ref="char:EOLhyphen"/>riffes of the cytie of Londo<g ref="char:cmbAbbrStroke">̄</g>: &amp; of diuers and many notable actes and thi<g ref="char:cmbAbbrStroke">̄</g>ges done, in, &amp; ſith the time of ki<g ref="char:cmbAbbrStroke">̄</g>ge Henry y<hi rend="sup">e</hi> fourth.</p>
+            <p>
+               <figure>
+                  <figDesc>printer's device of John Bydell, featuring a compartment exhibiting the seven cardinal virtues, wiht Bydell's mark and name below (McKerrow 85)</figDesc>
+                  <head>Iohn<g ref="char:cmbAbbrStroke">̄</g> Byddell.</head>
+                  <p>IUSTICIA</p>
+                  <p>Charitas</p>
+                  <p>Fides</p>
+                  <p>PRUDENCIA</p>
+                  <p>SPES</p>
+                  <p>Obedientia</p>
+                  <p>Patientia</p>
+               </figure>
+            </p>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:10403:2"/>
+            <head>¶To know whan the foure termes of the yere be<g ref="char:EOLhyphen"/>gyn and ende.</head>
+            <p>The terme nexte after the Natiuitie of our lorde, begynneth the .xxiiii daye of Ianuary, and endeth the .xii. daye of Fe<g ref="char:EOLhyphen"/>bruarye.</p>
+            <p>Eaſter terme begynneth the thyrd day after the quindecim of eaſter, and endeth the fourth daye after the Aſſencion of our lorde.</p>
+            <p>Mydſomer terme begynneth the thyrde daye after the Octaues of the Trinitie, &amp; endeth the .xi. day of Iulye.</p>
+            <p>Myghelmas terme beginneth the .ix. daye of October, and endeth the .xxviii. daye of Nouembre.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:10403:2"/>
+            <head>Henry the iiij.<hi rend="sup">th</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Enry the fourth, ſonne to Iohn of Gaunte late Duke of Lan<g ref="char:EOLhyphen"/>caſtre, and thyrde, ſonne of Ed<g ref="char:EOLhyphen"/>warde the thyrde, toke poſſeſ<g ref="char:EOLhyphen"/>ſion of this realme of Englande the laſte day of September, in the yere of our lord god a .M.CCC, lxxxxix,</p>
+            <p>Anno. dn<g ref="char:cmbAbbrStroke">̄</g>i. M.ccc, lxxxxix. Anno. H. iiii Thomas knolles Grocer, mayre. Wylly<g ref="char:EOLhyphen"/>lyam Hyde. Iohn walderne, Shiriffes. ¶In this yere dyed kynge rycharde the ſeconde.</p>
+            <p>¶In this yere dyuers dukes &amp; erles of Englande, &amp; other were accorded to make a mu<g ref="char:cmbAbbrStroke">̄</g>myng on twelfe daye at nyght, tray<g ref="char:EOLunhyphen"/>terouſly to kylle the kinge, than beyng at wyndſore, whiche beinge warned therof departed ſodenlye &amp; came to London, and made purſute after the ſaid co<g ref="char:cmbAbbrStroke">̄</g>ſpiratours whiche apprehended and taken, were af<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:10403:3"/> by the order of the lawe put to death. ¶In this yere was enacted by auctory<g ref="char:EOLhyphen"/>tye of parliament, that no lorde, nor other ma<g ref="char:cmbAbbrStroke">̄</g> myght gyue any gownes or lyuecyes to any of their tenauntes, or other ꝑſons, except onely theyr houſholde &amp; meynyal ſeruauntes.</p>
+            <p>¶In this yere was alſo enacted, that al repyers &amp; other fyſhers from Rye, wyn<g ref="char:EOLhyphen"/>cheſſee, &amp; other coſtes of the ſee ſyde, ſhold ſell theyr fyſſhe them ſelfe, in Cornhyll, Chepe, and other ſtretes of London, to al men that wolde by of them fiſſhmongers and all other that wolde by y<hi rend="sup">e</hi> ſayd fiſſhe to make ſale agayne of it, onely except.</p>
+            <p>Anno. dn<g ref="char:cmbAbbrStroke">̄</g>i. M.CCCC. Anno. ij. H. iiii. Iohn<g ref="char:cmbAbbrStroke">̄</g> Fraunces Goldſmyth, mayre. Iohn<g ref="char:cmbAbbrStroke">̄</g> wakele, William Ebot, ſhirifs. ¶This yere a pryour &amp; .viii. treers were hanged at tyburne for treaſon.</p>
+            <p>Anno. do. M.cccc.i. Anno. iij. Henr. iiii. Iohn<g ref="char:cmbAbbrStroke">̄</g> Shadworth mayre, William Fre<g ref="char:EOLhyphen"/>myngham. William Venour, Shiriffes.</p>
+            <pb facs="tcp:10403:3"/>
+            <p>Anno. dn<g ref="char:cmbAbbrStroke">̄</g>i. M.cccc.ii. Anno. iiii. H. iiii. Iohn<g ref="char:cmbAbbrStroke">̄</g> Walcot, mayre, Roberte Chicheley Rycharde Marlow, ſhirifs.</p>
+            <p>¶The battayle of Shrowyſbury.</p>
+            <p>Anno do. M.cccc.iii. Anno. v. Henr. iiii. William Aſkham mayre, Thomas Fawkener, Thomas Poole, ſhirifs</p>
+            <p>Anno. do. M.cccc.iiii. Anno. vi. Hen. iiii Iohn Hynde draper mayre, William Lowth Stephan Spylman, Sheriffes ¶In this yere Scrope archebyſſhop of yorke was beheded for treaſon.</p>
+            <p>Anno. dn<g ref="char:cmbAbbrStroke">̄</g>i. M.cccc.v. Anno. vii. Hen. iiii Iohn<g ref="char:cmbAbbrStroke">̄</g> Woodcocke mayre, Henry Barton William Crowner Shirifs.</p>
+            <p>Anno. do. M.cccc.vi. Anno. viii, Hen. iiii Richarde whityngton Mercer mayre. Nycolas Wotton, Geffrey broke ſhirifs.</p>
+            <p>Anno. dn<g ref="char:cmbAbbrStroke">̄</g>i. M.cccc. vii. Anno. ix. H. iiii. William Standon grocer mayre, Henrye Halton, Henry Ponfret, ſhirifs.</p>
+            <pb facs="tcp:10403:4"/>
+            <p>Anno. do. M.cccc.viii. Anno. x. H. iiii. Drewe Barencyne Goldſmythe mayre. Thomas Duke. William Norton. ſhir.</p>
+            <p>Anno. do. M.cccc.ix. Anno. xi. Henr. iiii. Rycharde Marlow yrenmonger mayre. Iohn Hawe. William Chicheley. ſhirifs.</p>
+            <p>Anno. do. M.cccc.x. Anno. xii. Hen. iiii. Thomas Knolles grocer Mayre. Iohn Pe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne. Thomas Pyke. Shiriffes. ¶This yere was abyll put into the par<g ref="char:EOLunhyphen"/>liament agaynſt the ſpiritualtye, for wa<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſtynge othe temporaltyes.</p>
+            <p>Anno. do. M.cccc.xi. Anno. xiii. H, iiii. Robert Chicheley grocer mayre. Iohn Reynwell. Walter Cotton, ſhirifs.</p>
+            <p>Anno. do. M.cccc.xii. Anno. xiiii. H. iiii. William Walderne mercer mayre. Raufe Leuyngham, William Seuenok, ſhirifs ¶The ſayd kyng Henry the fourth dyed the .xx. day of marche, in the ſayde yere of
+<pb facs="tcp:10403:4"/> our lord. M.cccc.xii. whan he had regned xiii. yeres .v. monethes, and .xxi. dayes, &amp; is buryed at Canterbury,</p>
+         </div>
+         <div type="part">
+            <head>Henry the fyfthe.</head>
+            <p>HEnry y<hi rend="sup">e</hi> fyfth began his reygne the xxi. daye of Marche, in the yere of our lorde nexte aboue mencioned, &amp; was crowned at weſtminſter the .ix. daye of Aprill folowynge, in the yere of our lorde god a. M.cccc.xiii.</p>
+            <p>Anno. dn<g ref="char:cmbAbbrStroke">̄</g>i. M.cccc.xiiii. Anno. i. Hen. v. William Walderne mercer mayre. Raufe Leuyngham. William Seuenoke Shir</p>
+            <p>Anno. dn<g ref="char:cmbAbbrStroke">̄</g>i. M.cccc.xxiiii. Anno. ii. Hen. v. William Crowner draper mayre. Iohn Sutton Iohn Mycoll. ſhirifs.</p>
+            <p>Anno. do. M.cccc.xv. Anno. iiii. Henr. v, Thomas Fawkener mercer mayre.
+<pb facs="tcp:10403:5"/> Iohn<g ref="char:cmbAbbrStroke">̄</g> Mychell. Thomas Aleyn, ſhirifs. ¶The batayle of Agyncourte.</p>
+            <p>Anno. dn<g ref="char:cmbAbbrStroke">̄</g>i. M.cccc.xvi. Anno. iiii. He. v Nicolas Wotton draper, mayre Wyl<g ref="char:EOLhyphen"/>liam Cambrige. Alane Euerade, ſhiriffes</p>
+            <p>Anno. dn<g ref="char:cmbAbbrStroke">̄</g>i. M.cccc.xvii. Anno. v, Hen. v Henry Barton ſkynner mayre. Robert Whitington. Iohn Couentre, ſhiriffes.</p>
+            <p>Anno. dn<g ref="char:cmbAbbrStroke">̄</g>i. M.cccc.xviii. Anno. vi. H. v. Rycharde Marlowe yrenmonger mayre. Henry Rede. Iohn<g ref="char:cmbAbbrStroke">̄</g> Gedney, ſhirifs</p>
+            <p>¶This yere ſyr Iohn<g ref="char:cmbAbbrStroke">̄</g> Oldcaſtel knyght lorde Cobham was hanged in cheynes &amp; after brent.</p>
+            <p>Anno do. M.cccc.xix. Anno. vii. Hen. v William Seuenok grocer mayre. Iohn<g ref="char:cmbAbbrStroke">̄</g> Parnes. Rauf Barton. Iohn<g ref="char:cmbAbbrStroke">̄</g> Brian, ſhir.</p>
+            <p>Anno dn<g ref="char:cmbAbbrStroke">̄</g>i. M.cccc.xx. Anno. viii. Hen. v Rycharde Whitingham mercer, mayre. Roberte Whitingham. Iohn Butler. ſhir</p>
+            <pb facs="tcp:10403:5"/>
+            <p>Anno. do M.cccc.xxi. Anno. Hen. v. William Cambrige grocer mayre, Iohn<g ref="char:cmbAbbrStroke">̄</g> Butler. William Weſton, ſhirifs ¶The byrth of Henry the ſyxthe.</p>
+            <p>Anno. dn<g ref="char:cmbAbbrStroke">̄</g>i. M.cccc.xxii, Anno. x. Hen. v Robert Chicheley grocer mayre. Rycharde Ioſielyn. William weſton ſhir. ¶The ſayde kyng Henrye the fyfte dyed the .xxi. day of Auguſt. in the yere of oure lorde next aboue mencioned, whan he had reigned .ix. yeres .v. monethes and .xxiiii. dayes, and lyeth buryed at Weſtmynſter.</p>
+         </div>
+         <div type="part">
+            <head>Henry the ſyxth.</head>
+            <p>HEnry the ſyxth began his reygne the fyrſt day of September, in the yere of our lorde next aboue mecyoned, &amp; was crowned at weſtmynſter in the .viii. yere of his reygne, all whiche tyme before, for infuffiency of age, he was commytted to the rule of his vncles, the dukes of Bed<g ref="char:EOLhyphen"/>ford
+<pb facs="tcp:10403:6"/> &amp; of Glouceſtre, he was of the age of viii. monethes &amp; odde dayes, &amp; not aboue.</p>
+            <p>Anno. do. M.cccc.xxiii. Anno. i. Henr. vi William Walderne, mayre, William Eſtfelde. Roberte Taterſale, ſhirifs.</p>
+            <p>Anno do. M.cccc.xiiii. Anno. ii. Hen. vi. William crowner draper mayre. Nyco<g ref="char:EOLhyphen"/>las Iames. Thomas Wadeforde, ſhirifs ¶In this yere the duke of Bedforde Re<g ref="char:EOLhyphen"/>gent of fraunce, made war vpon the Dol<g ref="char:EOLunhyphen"/>phin of Fraunce, &amp; to thengliſhmen ferthe vyctorye, at the batayle of Vernoyle.</p>
+            <p>Anno. do. M.cccc.xv. Anno. iii. Henr. vi Iohn<g ref="char:cmbAbbrStroke">̄</g> Mychel, mayre. Symonde Se<g ref="char:EOLhyphen"/>man. Iohn Bithwater, ſhiriffes.</p>
+            <p>Anno. do. M.cccc.xxvi. Anno. v. Hen. vi Iohn Couentre Mercer mayre. Wil<g ref="char:EOLunhyphen"/>liam Milrede. Iohn Brokle, ſhirifs.</p>
+            <p>Anno. do. M.cccc.xxvii. Anno. v. H. vi. Iohn Raynwell fyſſhmonger mayre. Robert Arnolde. Iohn Higham ſhirifs.</p>
+            <pb facs="tcp:10403:6"/>
+            <p>Anno. do. M.cccc.xxviii. Anno. vi. H. vi. Iohn Gedney draper mayre. Robert Otly. Henry Frowike ſhirifs.</p>
+            <p>Anno do. M.cccc.xxix. Anno. vii. H. vi Henry <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ton ſkynner, mayre. Thomas Daſhous. Rauf Holand, ſhir,</p>
+            <p>Anno. do. M.cccc.xxx. Anno. viii. H. vi. William Eſtfelde mercer mayre. Wyllyam Ruife. Ruffe hollonde, ſhirifs. ¶In this .vii. yere kynge Henry the .vi. was crowned at weſtminſter.</p>
+            <p>Anno do. M.cccc.xxxi. Anno. ix. Hen. vi. Nicolas Wotton mayre. Walter Che<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſey. Robart Large, ſhirifs.</p>
+            <p>Anno. do. M.cccc.xxxii. Anno. x. H. vi Iohn Weiley grocer mayre Iohn Ad<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee. Stephan Browne, ſhirifs ¶In this tenth yere kynge Henrye the ſixth was crowned at Parys, whiche is the chef. Cytye of all Fraunce.</p>
+            <pb facs="tcp:10403:7"/>
+            <p>Anno. dn<g ref="char:cmbAbbrStroke">̄</g>i. M.cccc.xxxiii. Anno. xi. H. vi Iohn<g ref="char:cmbAbbrStroke">̄</g> Parneys fyſſhmonger, mayre Iohn<g ref="char:cmbAbbrStroke">̄</g> Olney, Iohn<g ref="char:cmbAbbrStroke">̄</g> Paddiſley, ſhirifs.</p>
+            <p>Anno. dn<g ref="char:cmbAbbrStroke">̄</g>i. M.cccc.xxxiii. An. xii. H. vi. Iohn<g ref="char:cmbAbbrStroke">̄</g> Brokeley draper mayre.</p>
+            <p>Thomas Chalton, Iohn<g ref="char:cmbAbbrStroke">̄</g> Linge, ſhirifs.</p>
+            <p>Anno do. M.cccc.xxxv. Anno. xiii. H. vi Roberte Otley grocer mayre.</p>
+            <p>Thomas bernwell, Symonde Eyre. ſhir</p>
+            <p>¶In this yere was a greate froſt, that endured from the feaſt of ſaynt Katherin vnto the feaſt of ſaynt Valentyne, ſo that neyther ſhyp myght ſayle, nor boote be ro<g ref="char:EOLhyphen"/>wed in the Ryuer of Thames, &amp; therfore al the vyntage was caryed to London by lande in Cartes.</p>
+            <p>An do. M.cccc.xxxvi. Anno. xiiii. H. vi. Henry Frowyke mercer mayre, Tho<g ref="char:EOLhyphen"/>mas Catworth. Robert Clopton, ſhirifs.</p>
+            <p>An. do. M.cccc.xxxvii. Anno. xv. H. vi. Iohn<g ref="char:cmbAbbrStroke">̄</g> Mychell, mayre. Thomas Morſted, William Gregory, ſhirifs.</p>
+            <pb facs="tcp:10403:7"/>
+            <p>Anno. M.cccc.xxxviij. Anno. xvi. H. vi. William Eſtfelde mercer mayre. William Chapman, William halis, ſhir.</p>
+            <p>Anno. do. M cccc.xxxix. Anno. xvij. H. vi Stephan Browne grocer, mayre. Hugh Dyke. Nycolas yeo, ſhirifs.</p>
+            <p>Anno. dn<g ref="char:cmbAbbrStroke">̄</g>i, M.cccc.xl. Anno. xviij. H. vi Roberte large mercer mayre. Roberte Marſhall Philip Malpas ſherifs.</p>
+            <p>Anno. dn<g ref="char:cmbAbbrStroke">̄</g>i. M.cccc.xli. Anno. xix. H. vi. Iohn<g ref="char:cmbAbbrStroke">̄</g> Paddyſley goldſmyth, mayre Iohn<g ref="char:cmbAbbrStroke">̄</g> Dutton, William wetinghale, ſhir</p>
+            <p>Anno. dn<g ref="char:cmbAbbrStroke">̄</g>i. M.cccc.xlii. Anno. xx. H. vi. Robert Clopton mayre, William Combes, Richarde Eiche, ſherifs.</p>
+            <p>¶This yere the ſteple of paules church in London was ſet on fyre by lyghtening</p>
+            <p>Anno do, M.cccc.xliii. Anno. xxi. H. vi. Iohn<g ref="char:cmbAbbrStroke">̄</g> Atherley yre<g ref="char:cmbAbbrStroke">̄</g>monger, mayre. Tho<g ref="char:EOLhyphen"/>mas Beumou<g ref="char:cmbAbbrStroke">̄</g>t, Rycharde Nordon, ſhir.</p>
+            <pb facs="tcp:10403:8"/>
+            <p>Anno. do. M.cccc.xliii. Anno. xxii. H. vi, Thomas Catworth grocer mayer. Nycolas Wyforde. Iohn<g ref="char:cmbAbbrStroke">̄</g> Norman, ſhir.</p>
+            <p>Anno. do. M.cccc.xlv. Anno. xxiii. H. vi Henry frowyke mercer, mayre,</p>
+            <p>Stephan foſter. Hugh wyche, ſhirifs,</p>
+            <p>¶In this yere Margarete the kynges doughter of Cecile, was maryed to the kinge, &amp; after crowded at weſtmynſter.</p>
+            <p>Anno. do. M.cccc.xlvi. Anno. xxiiii. H. vi Iohn<g ref="char:cmbAbbrStroke">̄</g> Olney mercer, mayre Iohn<g ref="char:cmbAbbrStroke">̄</g> Herne. Godfrey Baleyne, ſhiriffes</p>
+            <p>Anno. do. M.cccc.xlvii. Anno. xxv. H. vi. Iohn Gedney draper mayre. William Abraham. Thomas Scot ſhir. ¶This yere dyed the good duke of Glou<g ref="char:EOLunhyphen"/>ceſtre and is buryed at ſaynt Albanes.</p>
+            <p>An. do. M.cccc.xlviii. Anno. xxvi. H. vi Stephan browne grocer mayre. Wyl<g ref="char:EOLhyphen"/>lyam Cantlowe. William Marow, ſhir.</p>
+            <pb facs="tcp:10403:8"/>
+            <p>Anno. do. M.cccc.xlix. Anno. xxvii. H. vi. Thomas Chalton mayre. Thomas Caninges. William Howlin, ſherifs.</p>
+            <p>¶In this yere the comons of kent aroſe and made them a capteyne named Iacke Cade, which dyd moch harme.</p>
+            <p>Anno. do. M.cccc.l. Anno. xxviij.i. H. vi Nycolas wyforde grocer mayre, William Dere. Iohn<g ref="char:cmbAbbrStroke">̄</g> Mydelton, ſhir.</p>
+            <p>Anno. do. M.cccc.li. Anno. xxix. H. vi. William Gregory ſkinner mayre. Ma<g ref="char:EOLhyphen"/>thew Philip. Chriſtofer Warton ſhirifs.</p>
+            <p>Anno. do. M.cccc.lii. Anno. xxx. Hen. vi. Godfrey Feldinge, mayre.</p>
+            <p>Rycharde Lee. Rycharde Alley, ſhirifs.</p>
+            <p>¶A metinge of a great hooſt vpon brent heth in kent, bytwene the kynge and the duke of yorke.</p>
+            <p>Anno. do. M.cccc.liii. Anno. xxxi. H. vi. Iohn<g ref="char:cmbAbbrStroke">̄</g> Norman draper mayre.</p>
+            <p>Iohn<g ref="char:cmbAbbrStroke">̄</g> Walden. Thomas Coke, ſheriffes.</p>
+            <pb facs="tcp:10403:9"/>
+            <p>Anno. do. M.cccc.liiij. Anno. xxxii. H. vi Stephan Foſter mayre.</p>
+            <p>William Tayloure. Iohn Felde ſhiriffes.</p>
+            <p>¶This yere was the firſte battayle at ſaynte Albanes.</p>
+            <p>Anno. do. M.cccc.lv. Anno. xxxiij. H. vi. William Marow grocer, mayre</p>
+            <p>Iohn<g ref="char:cmbAbbrStroke">̄</g> yonge, Thomas Olgraue, ſhirifs.</p>
+            <p>Anno. do. M.cccc.lvi. Anno. xxxiiii. H. vi Thomas Ca<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inges, mayre.</p>
+            <p>Iohn Stewarde Raufe Verney, ſhirifs,</p>
+            <p>Anno. do. M.cccc.lvii. Anno. xxxv. H vi Godfrey Boleyn mercer: mayre. William Edwarde. Thomas Reyner, ſhirifs.</p>
+            <p>¶In this yere the ſcience of printinge fyrſte began in Almayne, at the Cytye of Magunce.</p>
+            <p>Anno. M.cccc.lviii. Anno. xxxvi. H. vi. Thomas Scot draper, mayre.</p>
+            <p>Rauf Ioſſelyn, Richarde Nedeham ſhir. ¶This yere was y<hi rend="sup">e</hi> batayle of blore heth</p>
+            <pb facs="tcp:10403:9"/>
+            <p>Anno do. M.cccc.lix. Anno. xxxvii. H. vi, William Hulin fiſſhmonger mayre.</p>
+            <p>Iohn<g ref="char:cmbAbbrStroke">̄</g>. Stocker. Iohn<g ref="char:cmbAbbrStroke">̄</g> plummer, ſhirifs.</p>
+            <p>¶The battayle at Northampton.</p>
+            <p>Anno do. M.cccc.lx. Anno. xxxviii. H. vi. Rycharde Leegrocer mayre. Iohn<g ref="char:cmbAbbrStroke">̄</g> Lambert. Richarde Flemynge, ſhirifs.</p>
+            <p>¶In this yere was y<hi rend="sup">e</hi> duke of york made heyre apparraunt.</p>
+            <p>¶The battayle at Wakefelde.</p>
+            <p>¶The ſecond battaile at ſaynt Albanes.</p>
+            <p>¶The fourth daye of March, in the yere of oure lorde. M.cccc.lx. and in the .xxxix. yere of the reigne of kinge Henry the ſixth kinge Edwarde the fourth toke firſt poſ<g ref="char:EOLhyphen"/>ſeſſion in this realme, and the .xxviii. daye of Iune, in the yere of oure lorde. M.cccc.lxi. the ſame kinge Edwarde was crow<g ref="char:EOLhyphen"/>ned at weſtmynſter, and in the ſame yere that is to ſaye, the nynthe daye of Iulye than nexte folowinge, was the battayle of Northampton.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:10403:10"/>
+            <head>Edward the iiij.<hi rend="sup">th</hi>
+            </head>
+            <p>Anno do. M.cccc.lxi. Anno. i. Edw. iiii. Hugh Wiche, mayre,</p>
+            <p>George Irelonde. Iohn<g ref="char:cmbAbbrStroke">̄</g> Locke. ſhirifs.</p>
+            <p>¶In this yere vpon palme ſonday was the battayle called yorke felde.</p>
+            <p>Anno do. M.cccc.lxii. Anno. ii. Ed. iiii. Thomas Cooke mayre. Barthum Iames. William hampton, ſhiriffes.</p>
+            <p>¶This yere was y<hi rend="sup">e</hi> battayle at Exham</p>
+            <p>Anno do. M.cccc.lxiii. Anno. iii. Ed. iiii. Mathew Philip goldſmyth, mayre, Thomas Muſcha<g ref="char:cmbAbbrStroke">̄</g>p. Robert Baſſet, ſhir.</p>
+            <p>Anno do. M.cccc.lxiiii. Anno. iiii. Ed. iiii Raufe Ioſſelyn draper mayre</p>
+            <p>Iohn<g ref="char:cmbAbbrStroke">̄</g> Tate. Iohn<g ref="char:cmbAbbrStroke">̄</g>. Stone, Shirifs. ¶This yere was kyng Edward maried</p>
+            <p>Anno do. M.cccc.lxv. Anno. v. Ed. iiij. Raufe Verney mercer mayre.</p>
+            <p>Henry Wauyr. Willyam Conſtanſtine, ſhir</p>
+            <pb facs="tcp:10403:10"/>
+            <p>Anno. do. M.cccc.lxvi. Anno. vi. Ed. iiii Iohn<g ref="char:cmbAbbrStroke">̄</g> yonge grocer knight mayre. Iohn<g ref="char:cmbAbbrStroke">̄</g> bryce. Iohn<g ref="char:cmbAbbrStroke">̄</g> Browne. Iohn<g ref="char:cmbAbbrStroke">̄</g> ſtokton, ſhir.</p>
+            <p>Anno. do. M.cccc.lxvii. Anno. vii. Ed. iiii Thomas Owlgraue, mayre. Humfreye Heyforde. Thomas Stalbroke, ſhiriffes.</p>
+            <p>Anno dn<g ref="char:cmbAbbrStroke">̄</g>i. M.cccc.lxviii. An. viii. E. iiii William Taylour grocer mayre, Symon Smith. William Haryot. ſhir.</p>
+            <p>Ann do. M.cccc.lxix. Anno. ix. Ed. iiii. Rycharde Lee grocer mayre. Robert Drope. Rycharde Gardener, ſhir.</p>
+            <p>¶In this yere was the lorde Ryuers ta<g ref="char:EOLhyphen"/>ken and beheded.</p>
+            <p>¶In this yere alſo was the lord welles beheded.</p>
+            <p>¶In this yere was y<hi rend="sup">e</hi> battayle of Egecot beſyde banbury.</p>
+            <p>¶In this yere the duke of Clarence, and the erle of warwycke fled ouer the ſee.</p>
+            <p>¶In this yere kynge Henry the .vi. was
+<pb facs="tcp:10403:11"/> agayne reſtored to the crowne.</p>
+            <p>¶In this yere was the erle of Worceſter beheded.</p>
+            <p>Anno do. M.cccc.lxx. Anno. x. Ed. iiii. Iohn<g ref="char:cmbAbbrStroke">̄</g>. Stokton mercer knyght mayre. Iohn<g ref="char:cmbAbbrStroke">̄</g> Croſbye, Iohn<g ref="char:cmbAbbrStroke">̄</g> Warde Shiriffes. ¶In this yere the duke of Clarence lan<g ref="char:EOLhyphen"/>ded at Dertmouth with the erles of war<g ref="char:EOLhyphen"/>wike of Penbroke &amp; Oxforde, &amp; with ma<g ref="char:EOLhyphen"/>ny other gentylmen.</p>
+            <p>¶This yere kinge Edward fled ouer the ſee.</p>
+            <p>¶In this yere was kynge Henry againe proclaymed kinge.</p>
+            <p>¶In this yere quene Elyzabeth at Weſt<g ref="char:EOLhyphen"/>mynſter was delyuered of a yonge prince named Edwarde.</p>
+            <p>¶In this yere were kyng Edward and the Duke of Glouceſtre attaynedas tray<g ref="char:EOLhyphen"/>tours, and kinge Edwarde proclaymed vſurper of the Crowne.</p>
+            <p>¶In this yere kinge Edwarde landed in the North, at a place called Rauynſpore.
+<pb facs="tcp:10403:11"/> with a ſmall company of flemynges.</p>
+            <p>¶In this yere was king Henry the ſixth taken by kynge Edwarde the fourth, in y<hi rend="sup">e</hi> byſſhops palays at Paules in London. ¶In this yere was Bernet felde.</p>
+            <p>Anno. do. M.cccc.lxxi. Anno. xi. Ed. iiii. William Edwarde grocer, mayre.</p>
+            <p>Iohn<g ref="char:cmbAbbrStroke">̄</g> Aleyne, Iohn<g ref="char:cmbAbbrStroke">̄</g> Chelley, ſhirifs.</p>
+            <p>¶In this yere kyng Edward the fourth began agayne his dominion ouer the re<g ref="char:EOLhyphen"/>alme of Englande.</p>
+            <p>¶The battayle at Tewkeſbury.</p>
+            <p>¶This yere dyed kynge Henry the ſixte.</p>
+            <p>Anno do. M.cccc lxxii. Anno. xii. Ed. iiii. Wyllyam hampto<g ref="char:cmbAbbrStroke">̄</g> fiſſhmonger mayre. Thomas Bledlow, Iohn<g ref="char:cmbAbbrStroke">̄</g> browne, ſhirifs</p>
+            <p>Anno M.cccc.lxxiii. Anno. xiii. Ed. iiii. Iohn<g ref="char:cmbAbbrStroke">̄</g> Tate mercer mayre, William Stocker. Robert Bylleſdon, ſhirifs.</p>
+            <p>Anno M.cccc.lxxiiii. An. xiiii. Ed. iiii. Roberte Drope draper mayre.</p>
+            <pb facs="tcp:10403:12"/>
+            <p>Edmunde Shaa. Thomas Hyll, ſhirifs. ¶In this yere kinge Edwarde made a voyage into Fraunce.</p>
+            <p>Anno do. M.cccc.lxxv. Anno. xv. Ed. iiij Robert Baſſet ſalter, mayre.</p>
+            <p>Robert Coſwyche. Hugh Bryce, ſhiriffes. ¶In this yere were dyuerſe bakers of London ſet vpon the pyllory, for makinge of lyght weyght of breade.</p>
+            <p>Anno do. M.cccc.lxxvi. Anno. xvi. E. iiii. Raufe Ioſſelyne draper, mayre.</p>
+            <p>Rycharde Rawſon. William. Horne, ſhir. ¶In this yere from Crypylgate to Biſ<g ref="char:EOLhyphen"/>ſhops gate, Lo<g ref="char:cmbAbbrStroke">̄</g>don wall was newlye re<g ref="char:EOLhyphen"/>payred.</p>
+            <p>Anno M.cccc.lxxvii. Anno. xvii. Ed. iiii. Humfreye Heyforde goldſmyth, mayre, Henry Collet. Iohn<g ref="char:cmbAbbrStroke">̄</g> Stocker, ſhiriffes. ¶In this yere George duke of Clarence yonger brother to kinge Edwarde, beinge pryſoner in the Tower of London, was
+<pb facs="tcp:10403:12"/> there drowned in a barell of maulueſeye.</p>
+            <p>Anno. M.cccc.lxxviii. Anno. xviii. E. iiii Rycharde Gardyner mercer / mayre.</p>
+            <p>Robert Hardynge. Robert Byfelde / ſhir. ¶In this yere was great mortalytie in London, &amp; through out all England.</p>
+            <p>Anno do. M.cccc.lxxix. Anno. xix. Ed. iiii Barthylmewe Iames draper / mayre. Thomas Ilam. Iohn<g ref="char:cmbAbbrStroke">̄</g> warde. ſhiriffes.</p>
+            <p>Anno dn<g ref="char:cmbAbbrStroke">̄</g>i. M.cccc.lxxx. Anno xx. Ed. iiii. Iohn<g ref="char:cmbAbbrStroke">̄</g> Browne / mayre. William Ba<g ref="char:EOLhyphen"/>con. William Danyell / ſhiriffes.</p>
+            <p>Anno dn<g ref="char:cmbAbbrStroke">̄</g>i. M.cccc.lxxxi. Anno. xxi. E. iiii William Haryot draper knyght / mayre. Robert Tate. William Wykynge. Ry<g ref="char:EOLhyphen"/>charde Chawry / ſhiriffes.</p>
+            <p>¶This yere in the moneth of of Iuly, the kynge ſent for the mayre, with certeyn of his bretherne, and comyners of the City of London, vnto the foreſt of waltham &amp;
+<pb facs="tcp:10403:13"/> there cauſed the game to be broughte be<g ref="char:EOLhyphen"/>fore them, ſo that they ſawe courſe after courſe, &amp; many a dere both reed &amp; falowe ſlayne. And after that the kinge co<g ref="char:cmbAbbrStroke">̄</g>maun<g ref="char:EOLhyphen"/>ded his officers to bringe the mayre &amp; his company vnto a pleaſaunt lodge made al of grene bowes, &amp; there ſet them to dyner &amp; ſerued them with many deynty diſſhes and dyuers wynes good &amp; plenty, &amp; ouer that cauſed the lorde chambrelayne, with other lordes, to chere the mayre &amp; his com<g ref="char:EOLunhyphen"/>pany ſondry tymes whyle they were at dyner, and at theyr departyng gaue vnto them venyſon grate plenty.</p>
+            <p>¶In this yere alſo the kinge ſente vnto the mayreneſſe of Lo<g ref="char:cmbAbbrStroke">̄</g>don and her ſyſters alderme<g ref="char:cmbAbbrStroke">̄</g>s wyues, two hartes .vi. buckes and a tunne of wyne, to make them mery withall.</p>
+            <p>Anno. do. M.cccc.lxxxii. An. xxii. Ed. iiii. Edmunde Shaa goldſmyth mayre. Iohn<g ref="char:cmbAbbrStroke">̄</g> Mathew. William white, ſhirifs. ¶In this begynnynge of the .xxiii. yere
+<pb facs="tcp:10403:13"/> of the kinge at weſtmynſter, the .ix. daye of Aprill dyed the noble kinge Edward y<hi rend="sup">e</hi> fourth, &amp; is buryed at wyndſore, whan he had rigned, to recken his begynnynge out of the lande, with all other tyme, full xxii. yeres, &amp; as moche as from y<hi rend="sup">e</hi> fourthe day of Marche, vnto the .ix. daye of Aprill leuynge after him two ſonnes, that is to ſaye prince Edwarde his eldeſt ſonne, &amp; Rycharde duke of yorke, &amp; thre doughters as Elyſabeth that after was quene, Cy<g ref="char:EOLhyphen"/>celey and Katheryne.</p>
+         </div>
+         <div type="part">
+            <head>Edward the fyfte</head>
+            <p>EDward the fyfth began his reigne ouer the realme of England the .xi. day of April, in the begynnyng of the yere of our lorde. M.cccc.lxxxiii. the ſame Ed<g ref="char:EOLhyphen"/>ward bei<g ref="char:cmbAbbrStroke">̄</g>g of the age of .xi. yeres, or there aboute This Edwarde was neuer crow<g ref="char:EOLunhyphen"/>ned, but ſhamefully murthered by the co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>maundemente of Rycharde the thyrde, that after was kinge of Englande.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:10403:14"/>
+            <head>Rychard the .iij.</head>
+            <p>Rycharde the thyrde began his domi<g ref="char:EOLunhyphen"/>nyon ouer the realme of Englande the .xxi. day of Iune, in y<hi rend="sup">e</hi> yere of our lord M.CCCC.lxxxiii. and the ſyxt day of Iu<g ref="char:EOLunhyphen"/>ly than next folowynge was crowned at weſtmynſter.</p>
+            <p>Anno. do. M.cccc.lxxxiii. Anno. i. Ry. iii. Robert Bylleſdon haberdaſſher, mayre. Thomas Norland. Willia<g ref="char:cmbAbbrStroke">̄</g> martyne, ſhir ¶In this yere was the duke of Buckin<g ref="char:EOLhyphen"/>gham beheded at Salyſbury.</p>
+            <p>Anno do. M.cccc.lxxxiiii. Anno. ii. R. iii. Thomas Hyll mayre. Thomas Breteyn Rycarde Cheſtre Raufe Aſtry. ſhir.</p>
+            <p>¶The .xxii. day of Auguſt, in the yere of our lord. M.cccc.lxxxv. was the battayle of Boſworth, nere to Leyceſtre, in y<hi rend="sup">e</hi> whi<g ref="char:EOLhyphen"/>che kynge Rycharde the thyrde, in the thyrde yere of his reygne was ſlayne by
+<pb facs="tcp:10403:14"/> kinge Henry the ſeuenth, the whiche in y<hi rend="sup">e</hi> ſame day began his reigne ouer y<hi rend="sup">e</hi> realme of Englande, and the .xxx. day of October than next folowing was crowned at weſt mynſter.</p>
+            <p>¶In the .xiii. day of September, in the yere of our lorde laſt before mencyoned, of the ſweat dyed the foreſayd Thomas Hil mayre, in whoſe place the .xxiiii. day of y<hi rend="sup">e</hi> moneth &amp; yere of our lord, laſt before men<g ref="char:EOLhyphen"/>cyoned, Willia<g ref="char:cmbAbbrStroke">̄</g> Stocker knight was cho<g ref="char:EOLhyphen"/>ſen mayre which Stocker dyed the xviii. day of the ſayde moneth, alſo of the ſweat &amp; the .xxix. day of y<hi rend="sup">e</hi> ſayd moneth, of Sep<g ref="char:EOLhyphen"/>tember was Iohn<g ref="char:cmbAbbrStroke">̄</g> Warde choſen mayre &amp; ſo contynued vntyll the feaſte of Symo<g ref="char:cmbAbbrStroke">̄</g> and Iude than next folowynge.</p>
+         </div>
+         <div type="part">
+            <head>Henry the ſeue<g ref="char:cmbAbbrStroke">̄</g>th</head>
+            <p>Anno do. M.cccc.lxxxv. Anno. i. H. vii. Hughe Bryce goldſmyth knight mayre. Iohn<g ref="char:cmbAbbrStroke">̄</g> Tate, Iohn<g ref="char:cmbAbbrStroke">̄</g> Swan, Shirifs.</p>
+            <pb facs="tcp:10403:15"/>
+            <p>Anno. do. M.cccc.lxxviii. An. ii. H. vii. Henry Collet mercer knight mayre.</p>
+            <p>Iohn percyuale. Hugh Clopton ſhirifs. ¶In this yere the kinge maryed kynge Edwardes eldeſt doughter, named Elyza<g ref="char:EOLunhyphen"/>beth, &amp; in the moneth of Septembre next after was prince Arthur borne at Wyn<g ref="char:EOLhyphen"/>cheſtre.</p>
+            <p>Anno. M.cccc.lxxxvii. Anno. iii. H. vii. Wylliam Horne mayre. Wylliam Re<g ref="char:EOLunhyphen"/>myngton, Iohn<g ref="char:cmbAbbrStroke">̄</g> Fenkyll ſhirifs.</p>
+            <p>¶This yere on ſaynte Katheryns daye was the quene crowned at weſtmynſter.</p>
+            <p>Anno. M.cccc.lxxxviii. Anno. iiii. H. vii Robert Tate mercer mayre,</p>
+            <p>Wyllyam Iſaac. Raufe Tylney, ſhirifs. ¶In this yere the co<g ref="char:cmbAbbrStroke">̄</g>mons of the North ſlew the erle of Northumberland, &amp; in the ſame yere was the felde of Dykeſmew in Flau<g ref="char:cmbAbbrStroke">̄</g>ders foughten by y<hi rend="sup">e</hi> lord Dawbeney where the lorde Morley was ſleyne. Anno. dn<g ref="char:cmbAbbrStroke">̄</g>i. M.cccc.lxxxix. Anno. v. He<g ref="char:cmbAbbrStroke">̄</g>. vii.
+<pb facs="tcp:10403:15"/> William white mayre.</p>
+            <p>Wylliam Capell. Iohn<g ref="char:cmbAbbrStroke">̄</g> Broke ſhirifs.</p>
+            <p>Anno do. M.cccc.lxxxx. Anno. vi. H. vii. Iohn<g ref="char:cmbAbbrStroke">̄</g> Mathew mercer mayre. He<g ref="char:cmbAbbrStroke">̄</g>ry Cote Robert Reuel, Hugh Pemberton, ſhirifs. ¶This yere was lorde Henry the kinges ſeconde ſon borne at Grenewich in Iune.</p>
+            <p>Anno do. M.cccc.lxxxxi. Anno. vii. H. vii Hugh Clopton mercer mayre.</p>
+            <p>Thomas wode, William browne. ſhir.</p>
+            <p>Anno do. M.cccc.lxxxxii. Anno. viii. H. vii William Martyne ſkynner mayre.</p>
+            <p>William purchaſe, Wylliam welbeke, ſhir ¶This yere in the monethe of October was a fraye made vpon the Eſterlynges by the commons of the City of London, &amp; ſpecyally by mercers ſeruauntes.</p>
+            <p>Anno M.cccc.lxxxxiii. Anno. ix. H. vii. Raufe Aſtry fyſſhmonger mayre. Robert Fabyan, Wyllyam, Wyngar, ſhir.</p>
+            <pb facs="tcp:10403:16"/>
+            <p>¶In this yere was wheate at .vi. d. the buſſhell, &amp; bay ſalte at .iii. d. ob. a buſſhell in the cytye of London.</p>
+            <p>¶Syr wyllyam Stanley beheded.</p>
+            <p>Anno do. M.cccc.lxxxxiiii.. Anno. x. H. vii Rychard Chawry ſalter mayre,</p>
+            <p>Nycolas alwyn, Iohn Warner ſhirifes. ¶In this yere in London were whyte heryng ſolde for thre ſhyllinges. iiii. d a ba<g ref="char:EOLunhyphen"/>rell &amp; not aboue.</p>
+            <p>Anno M.cccc.lxxxxv. Anno. xi. H. vii. Henry Collet mercer knyght, mayre. Tho<g ref="char:EOLunhyphen"/>mas kneyſworth Henry Somyr Shir.</p>
+            <p>Anno. M.cccc.lxxxxvi. Anno. xii. H. vii Iohn<g ref="char:cmbAbbrStroke">̄</g> &amp; are mercer mayre.</p>
+            <p>Iohn<g ref="char:cmbAbbrStroke">̄</g> Shaa, Rychard Haddon ſhirifs. ¶I this yere the .xvii. day of Iune was Blakheth felde.</p>
+            <p>Anno. M.cccc.lxxxxvii. Anno. xiii. H. vii. Wyllyam Purchaſe mercer mayre.
+<pb facs="tcp:10403:16"/> Bartylmewe Rede. Tho. wyndoute, ſhir.</p>
+            <p>Anno M.cccc.lxxxxviii. Anno. xiiii. H. vii. Iohn<g ref="char:cmbAbbrStroke">̄</g> Percyuale marchaunt Tayloure. mayre. Thomas Bradburye. Stephan Ienyns, ſherifs.</p>
+            <p>Anno. M.cccc.lxxxxix. Anno. xv. H. vii. Nycolas Alwyn, mayre. Iames. Wilforde. Rycharde Bronde, ſhirifs.</p>
+            <p>Anno do. M.ccccc. Anno. xvi. Henry. vii. Wyllyam Remyngton, mayre.</p>
+            <p>Iohn<g ref="char:cmbAbbrStroke">̄</g> hawes wyllyam Stede ſhirifs. ¶In this yere the .iiii. daye of October, landed at Plymmouth Katherin dough<g ref="char:EOLhyphen"/>ter of the kynge of Spayne.</p>
+            <p>Anno. do. M.ccccc.i. Anno. xviii. H. vii. Iohn<g ref="char:cmbAbbrStroke">̄</g> Shaa goldſmith, mayre.</p>
+            <p>Laurence Aylemer, Henry Hede, ſhirifs. ¶In this yere vpon ſaynt Erkenwaldes daye, was prince Arthur maryed to the foreſayde lady Katherin.</p>
+            <pb facs="tcp:10403:17"/>
+            <p>Anno do. M.ccccc.ii. Anno. xviii. H. vii. Bartylmew Rede goldſmyth mayre. Henry Keybell. Nycolas Nynys ſhirifs. ¶In this yere the .xi. daye of Februarye dyed quene Elyzabeth in y<hi rend="sup">e</hi> tower of Lon<g ref="char:EOLunhyphen"/>don lyinge in chyldbed. And the .viii. day of Auguſt was y<hi rend="sup">e</hi> ki<g ref="char:cmbAbbrStroke">̄</g>g of Scottes maried to Margarete eldeſt doughter of the king</p>
+            <p>Anno do. M.ccccc.iii. Anno. xix. H. vii. William Capell draper mayre.</p>
+            <p>Xp<g ref="char:cmbAbbrStroke">̄</g>ofer Hawes Robert Wattes, Thomas Graunger ſhirifs.</p>
+            <p>Anno. do. M.ccccc.iiii. Anno. xx. H. vii. Iohn<g ref="char:cmbAbbrStroke">̄</g> Wyngar grocer mayre.</p>
+            <p>Roger Achylley. William Browne ſhir.</p>
+            <p>Anno do. M.ccccc.v. Anno. xxi. He<g ref="char:cmbAbbrStroke">̄</g>. vii, Thomas Kneyſworth fyſhmo<g ref="char:cmbAbbrStroke">̄</g>ger mayre Rycharde Shore. Roger Groue, ſhirifs. ¶In this yere was the Wethercocke of Paules blowen downe, and the duke of Burgoyne was dryuen to la<g ref="char:cmbAbbrStroke">̄</g>d in the Weſt countrey.</p>
+            <pb facs="tcp:10403:17"/>
+            <p>Anno do. M.ccccc.vi. Anno. xxii. H. vij. Rycharde Haddo<g ref="char:cmbAbbrStroke">̄</g> mercer knyght, mayre. Wyllia<g ref="char:cmbAbbrStroke">̄</g> Copi<g ref="char:cmbAbbrStroke">̄</g>ger, Wyllia<g ref="char:cmbAbbrStroke">̄</g> Fytzwillia<g ref="char:cmbAbbrStroke">̄</g>, ſhyr.</p>
+            <p>Anno. do. M.ccccc.vii. Anno. xxiii. H. vii. Wyllyam Browne mercer. Laurence Aylmer draper, mayers.</p>
+            <p>Wylliam Butler. Iohn<g ref="char:cmbAbbrStroke">̄</g> Kyrkby, ſhirifs. ¶In this ſame yere was a greate parte of the cytye of Norwyche brente.</p>
+            <p>Anno. M.ccccc.viii. Anno. xxiiii. H. vij. Steph. Geni<g ref="char:cmbAbbrStroke">̄</g>s marchau<g ref="char:cmbAbbrStroke">̄</g>t taylour, mayre. Tho. Exmew. Rycharde Smyth, ſhirifs ¶In this yere the .xxi. daye of Apryll, in the .xxiiii. yere of his reygne, dyed kynge Henry the .vii. at Rychemonde, and was buryed at weſtmynſtre.</p>
+            <p>OVr moſt gracyous ſoueraygne lorde kyng Henry the .viii. began his moſt gracyous reygne the .xxii. daye of Apryll, in the yere of oure Lorde. M.ccccc.ix. and was crowned at Weſtmynſtre, in the feeſt of the natyuytie of ſaynt Iohn<g ref="char:cmbAbbrStroke">̄</g> Baptiſt.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:10403:18"/>
+            <head>Henry the viii<hi rend="sup">th</hi>
+            </head>
+            <p>Anno. do. M.ccccc.ix. Anno. j. Henry. viij. Thomas Bradburye mercer mayre, George Monox. Ihon<g ref="char:cmbAbbrStroke">̄</g> Doket, ſhirifs. ¶Empſon &amp; dudley beheded in Auguſt. Syr William Fitzwilliam diſfranchaſyd bycauſe he wold not be ſhirife.</p>
+            <p>Anno dn<g ref="char:cmbAbbrStroke">̄</g>i. M.ccccc.x. Anno. ij. He<g ref="char:cmbAbbrStroke">̄</g>. viij. Henry Keybell, mayre.</p>
+            <p>Iohn<g ref="char:cmbAbbrStroke">̄</g> Mylborne. Iohn<g ref="char:cmbAbbrStroke">̄</g> Reſt ſhirifs. ¶Prince Henry borne at Rychemonde on newyers day, &amp; ſolempne Iuſts kept at Weſtmynſter. And on ſaynt Mathewes day the prynce dyed.</p>
+            <p>Anno dn<g ref="char:cmbAbbrStroke">̄</g>i. M.ccccc.xi. Anno. iii. H. viiij. Roger Achyley draper / mayre. Nyco<g ref="char:EOLhyphen"/>las Shelton. Thomas Myrfyne, ſhirifs. ¶The lorde Darcy ſent into Spayne to ayde the king of Spayne againſt the Mo<g ref="char:EOLunhyphen"/>res but peace was made before his ary<g ref="char:EOLhyphen"/>uynge &amp; ſo he returned &amp; the ſame ſeaſon
+<pb facs="tcp:10403:18"/> was ſyr Edwarde Pownynges ſent into Gelderland to ayde the prynce of Caſtell &amp; the lorde Haward toke Andrew borto<g ref="char:cmbAbbrStroke">̄</g> &amp;c.lx. ſcottes &amp; .ii. fayre ſhyps.</p>
+            <p>Anno do. M.ccccc.xii. Anno. iiii. H. viii. William Copynger fyſhmo<g ref="char:cmbAbbrStroke">̄</g>ger. Rychard Haddon knyght / mayrs. Roberte Holdernes. Rober Fenrother / ſhiriffes. Edmonde de la poole beheded.</p>
+            <p>¶This yere the lorde Marques Dorſet was ſent in to Spayne, with .x.M men &amp; dyd moch hurte in Guyon &amp; returned in winter by reaſon of the flix, &amp; on ſent law<g ref="char:EOLhyphen"/>rens daye the Regent &amp; the Carycke were brent which were .ii. great ſhyps.</p>
+            <p>Anno dn<g ref="char:cmbAbbrStroke">̄</g>i. M.ccccc.xiii. Anno. v. H. viij William Browne mercer / mayre</p>
+            <p>Iohn<g ref="char:cmbAbbrStroke">̄</g> Dawes. Iohn<g ref="char:cmbAbbrStroke">̄</g> Bruge / ſhiriffes. ¶The ſayd Dawes dyed w<hi rend="sup">t</hi>in y<hi rend="sup">e</hi> yere / &amp; in his place was choſen Roger Baſforde. ¶Syr Edwarde Howard lord Admyrall of England was ſlayne on ſaint Markes
+<pb facs="tcp:10403:19"/> daye in Brytayne by to moch hardynes, after in Iune the king beſieged Turwyn &amp; diſco<g ref="char:cmbAbbrStroke">̄</g>fited the power of Fraunce at Boo<g ref="char:EOLhyphen"/>mye, &amp; toke the Cytyes of Turwyn and Turney, &amp; returned without any more battayle offered, duryng which tyme the kynge of Scottes enoyed England with a. c.M. men &amp; was ſlayne hym ſelfe &amp; .xj. Erles by therle of Surrey y<hi rend="sup">e</hi> kynges lief<g ref="char:EOLhyphen"/>tenaunt / wherfore the kyng created hym after duke of Norfolke &amp; his ſonne Erle of Surrey.</p>
+            <p>Anno do. M.ccccc.xiiii. Anno. vj. H. viii. George Monox draper / mayre.</p>
+            <p>Iamys yarforde. Iohn<g ref="char:cmbAbbrStroke">̄</g> Mundy / ſhirifs ¶This yere was a peace concluded be<g ref="char:EOLhyphen"/>twene England and Fraunce, and on S. Denyes day, the Frenche kynge maryed the lady Mary the kinges ſyſter, &amp; he dy<g ref="char:EOLhyphen"/>ed on new yeres day after, &amp; therfore y<hi rend="sup">e</hi> ki<g ref="char:cmbAbbrStroke">̄</g>g ſente for her agayne, by the duke of Suf<g ref="char:EOLhyphen"/>folke &amp; other. Alſo this yere was Rychard Hunne hanged in the lollars tower.</p>
+            <p>Anno do M.ccccc.xv. Anno. vij. H. viij.
+<pb facs="tcp:10403:19"/> William Butler grocer / mayre.</p>
+            <p>Henry Worley. Rycharde Grey / ſhiriffes. ¶The ſayd Grey dyed within the yere &amp; in his place was choſen William Bayly. ¶The quene of ſcottes came to London in Maye and taryed there a hole yere. ¶In Apryll the Frenche quene came in to England &amp; was maryed to lord Char<g ref="char:EOLhyphen"/>les duke of Suffolke, this yere Margret quene of ſcottes ſyſter to the kynge fled in England &amp; lay at Harbottell &amp; ſhe was de<g ref="char:EOLunhyphen"/>lyuered of a doughter called Margrete. And in February was borne the lady Ma<g ref="char:EOLunhyphen"/>ry the kynges doughter at Grenewyche.</p>
+            <p>Anno. M.ccccc.xvi. Anno viij. H. viii. Iohn<g ref="char:cmbAbbrStroke">̄</g> Reſt grocer / mayre. Thomas Seymer. Rycharde Thurſton / ſhiriffes. ¶This yere was ſuch a froſt that all me<g ref="char:cmbAbbrStroke">̄</g> with Cartes myght paſſe bytwene weſt<g ref="char:EOLunhyphen"/>mynſtre and Lambeth.</p>
+            <p>¶On May euen this yere was an inſur<g ref="char:EOLunhyphen"/>rection of yonge perſons agaynſt alyenes of the whiche dyuers were put to execuci<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:10403:20"/> and the other came to weſtmynſter with halters about theyr nekes &amp; were pardoned, and the .xviij. day of Maye the quene of ſcottes returned to her countrey.</p>
+            <p>Anno. do. M.ccccc.xvij. Anno. ix. H. viii Tho. Exmewe goldſmyth knyght mayre Thomas Baldry, Rychard Symo<g ref="char:cmbAbbrStroke">̄</g>d, ſhir ¶The terme adiourned to Oxforde &amp; a<g ref="char:EOLhyphen"/>gayne to Londo<g ref="char:cmbAbbrStroke">̄</g>, in October the admyrall of Frau<g ref="char:cmbAbbrStroke">̄</g>ce cam into England, &amp; Tourney was delyuered to the Frenche kynge.</p>
+            <p>Anno do. M.ccccc.xviii. Anno. x. H. viii. Thomas Myrfyn ſkynner mayre.</p>
+            <p>Iohn Aleyn, Iames Spencer ſhiriffes. ¶In this yere was at Frankford Char<g ref="char:EOLhyphen"/>les the .v. elected Emperour.</p>
+            <p>¶And therle of Surrey ſe<g ref="char:cmbAbbrStroke">̄</g>t in to Irela<g ref="char:cmbAbbrStroke">̄</g>d.</p>
+            <p>Anno. do. M.ccccc.xix. Anno. xi. H. viii. Iamys Yarford, mercer knight mayre. Iohn<g ref="char:cmbAbbrStroke">̄</g>. Wilkinſon, Nycolas Patriche ſhir ¶The kyng and the Frenche kynge met at the campe betwene Arde &amp; Guyſnes where were great tryu<g ref="char:cmbAbbrStroke">̄</g>phes &amp; after the
+<pb facs="tcp:10403:20"/> king &amp; themperour met, &amp; the kyng went to Grauelin with themperour, &amp; thempe<g ref="char:EOLunhyphen"/>roure came to Caleys with the kinge and had great chere &amp; the kinge returned.</p>
+            <p>Anno do. M.ccccc.xx. Anno. xii. H. viij. Iohn<g ref="char:cmbAbbrStroke">̄</g> Bruge draper, knyght, mayre. Iohn<g ref="char:cmbAbbrStroke">̄</g> Skeuinton. Iohn<g ref="char:cmbAbbrStroke">̄</g> kembe ſhirifs. ¶This yere the duke of Bucki<g ref="char:cmbAbbrStroke">̄</g>gha<g ref="char:cmbAbbrStroke">̄</g> was beheded y<hi rend="sup">e</hi> .xvii. day of May. And in Iune the Cardynall went to Caleys to entreate a peace betwne themperour &amp; the fre<g ref="char:cmbAbbrStroke">̄</g>che kynge, &amp; taryed there tyl December with out any thynge concluded.</p>
+            <p>Anno. do. M.ccccc.xxi. Anno. xiii. H. viii. Iohn<g ref="char:cmbAbbrStroke">̄</g> Mylborne draper / mayre. Iohn<g ref="char:cmbAbbrStroke">̄</g> Breteyn. Thomas Pergetour / ſhiriffes. ¶In this yere the fryday before Penthe<g ref="char:EOLunhyphen"/>coſt, that is to ſaye, the .vi. daye of Iune / Charles the .v. Emperoure was honora<g ref="char:EOLhyphen"/>bly receyued into the cytye of London, of the Mayre, Aldermen, &amp; comynaltye, our ſayde ſouerayne lorde accompanying, the ſayde emperour: And from Lo<g ref="char:cmbAbbrStroke">̄</g>don he we<g ref="char:cmbAbbrStroke">̄</g>t
+<pb facs="tcp:10403:21"/> to Wynſore &amp; ſat in his ſtal of the Garter, and from thens went to Hamton, &amp; ſayled into Sayne, duryng which tyme y<hi rend="sup">e</hi> erle of Surrey lorde admyral brent the tower of Morles in Britayne, &amp; after landed at Ca<g ref="char:EOLhyphen"/>leys &amp; entered Picardye, &amp; brent townes &amp; caſtels &amp; beſieged Heſdinge, but by reaſon of wynter he rayſed his ſege &amp; returned. This ſommer the duke of Albanye was entryng Engla<g ref="char:cmbAbbrStroke">̄</g>de with a great army, but when he herd that therle of Shrewſbury was co<g ref="char:cmbAbbrStroke">̄</g>mynge to fyght with him, he toke a truce for ſyxe monethes.</p>
+            <p>Anno. do. M.ccccc.xxii. An. xiiii. H. viii Iohn<g ref="char:cmbAbbrStroke">̄</g> Mundy goldſmyth mayre. Iohn<g ref="char:cmbAbbrStroke">̄</g> Rudſtone. Iohn<g ref="char:cmbAbbrStroke">̄</g> Champneyes ſhirifs. ¶Chryſtierne kynge of Denmarke came in to Englande in Iune, &amp; therle of ſurrey brent Iedworth and many other townes in Scotlande.</p>
+            <p>¶In this yere the Turke beſyeged the Rhodes, &amp; vpo<g ref="char:cmbAbbrStroke">̄</g> Chriſtmas day he toke it.</p>
+            <p>Anno do. M.ccccc.xxiii. An. xv. H. viii. Thomas Baldry mercer, mayre</p>
+            <pb facs="tcp:10403:21"/>
+            <p>Myghel Inglyſh. Nycolas Ienins, ſhir. ¶The duke of Suffolke we<g ref="char:cmbAbbrStroke">̄</g>t into Frau<g ref="char:cmbAbbrStroke">̄</g>ce with .x.M. men, and paſſed the water of Some withoute battayle and toke &amp; de<g ref="char:EOLhyphen"/>ſtroyed many towres, &amp; in Decembre re<g ref="char:EOLhyphen"/>turned. The ſame yere the duke of Albany beſieged the Caſtel of Warke, &amp; hearynge of the erle of Surryes commynge with a great armye, he cowardly fled.</p>
+            <p>Anno do. M.ccccc.xxiiii. An. xvi. H. viii. Wyllyam Bayly draper, mayre. Raufe Dodmer, Wylliam Roche, ſhyrifs. ¶This yere came fro<g ref="char:cmbAbbrStroke">̄</g> themperour y<hi rend="sup">e</hi> lord of Camphere &amp; other lordes, &amp; alſo out of Scotlande came the byſſhop of Du<g ref="char:cmbAbbrStroke">̄</g>kell &amp; other as Embaſſadours, and on S. Ma<g ref="char:EOLhyphen"/>thias day was the frenche kynge taken. ¶<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mutyng in Norfolke &amp; Suffolke for paymme<g ref="char:cmbAbbrStroke">̄</g>t of money. And a peace co<g ref="char:cmbAbbrStroke">̄</g>cluded bytwene Englande and Fraunce, and the Frenche kynge was delyuered in March. ¶This yere was the coyne enhaunced.</p>
+            <p>Anno do. M.ccccc.xxv. An. xvii. H. viii. Iohn<g ref="char:cmbAbbrStroke">̄</g> Aleyn mercer knyght, mayre.</p>
+            <pb facs="tcp:10403:22"/>
+            <p>Iohn<g ref="char:cmbAbbrStroke">̄</g> Cauton, Xp<g ref="char:cmbAbbrStroke">̄</g>opher Aſcue, ſhyriffes.</p>
+            <p>Anno. M.ccccc.xxvi. An. xviii. H. viii. Thomas Seymer mercer knyght mayre. Stephan Pecok, Nycolas lambert, ſhir. ¶In this yere the Cytye of Rome, by the viceroy of Naples, and the duke of Bur<g ref="char:EOLhyphen"/>bone, the ſame duke beynge fyrſte kylled, was taken / and almoſt deſtroyed: and Cle<g ref="char:EOLunhyphen"/>mens the .vii. than byſſhop of Rome, and dyuers of the cardynals there found, wer taken and broughte in to captyuytye, and vnder the rule of Charles the emperour. ¶This yere corne began to fayle. And the cardynall went in to Fraunce with great pompe, there he co<g ref="char:cmbAbbrStroke">̄</g>cluded a leage bytwene the king &amp; the frenche king, which both de<g ref="char:EOLunhyphen"/>fyed themperour, &amp; ſe<g ref="char:cmbAbbrStroke">̄</g>t one army into Ita<g ref="char:EOLhyphen"/>lye / &amp; in ſepte<g ref="char:cmbAbbrStroke">̄</g>bre he returned. And in octo<g ref="char:EOLhyphen"/>ber the greate maſter of Frau<g ref="char:cmbAbbrStroke">̄</g>ce came in to London with greate tryumphe, for conlu<g ref="char:EOLhyphen"/>ſion of the ſame leage.</p>
+            <p>Anno do. M.ccccc.xxvii. An. xix. H. viii. Iames Spencer vyntener, mayre.</p>
+            <pb facs="tcp:10403:22"/>
+            <p>Iohn<g ref="char:cmbAbbrStroke">̄</g> Hardye, Wyllyam Holleys, ſhirifs. ¶This yere corne was very dere, &amp; had bene dearer yf marchauntes of ſtylyarde had not bene, &amp; dutche ſhyps reſtreyned &amp; an abſtinence of war betwene Englande &amp; Flaunders. This yere was the ſweating ſykenes, for the which cauſe there was no watch at Mydſomer. On ſaynt Denyes day a legate came from Rome.</p>
+            <p>Anno do. M.ccccc.xxviij. An. xx. H. viii Iohn<g ref="char:cmbAbbrStroke">̄</g> Rudſtone draper mayre.</p>
+            <p>Rauf Waren. Iohn longe ſhirifs.</p>
+            <p>¶In Iune the Legates ſat at the blacke freers for the kynges maryage, &amp; in Oc<g ref="char:EOLhyphen"/>tober the Cardynall was depoſed of his chau<g ref="char:cmbAbbrStroke">̄</g>cellerſhyp, and peace betwene them<g ref="char:EOLhyphen"/>perour and the kynge.</p>
+            <p>Anno do. M.ccccc.xxix. An. xxi. H. viii. Rauf Dodmer mercer mayre.</p>
+            <p>Myghel Dormer, Walter Cha<g ref="char:cmbAbbrStroke">̄</g>pion. ſhir. ¶A parlyament for enormytyes of y<hi rend="sup">e</hi> cler<g ref="char:EOLunhyphen"/>gye. And themperour crowned at Boo<g ref="char:EOLhyphen"/>mye in Februarye.</p>
+            <pb facs="tcp:10403:23"/>
+            <p>Anno do. M.ccccc.xxx. An. xxii. H. viii. Thomas Pargetour ſalter knight maire William dauncy. Iohn Cloppinge ſhir. ¶The frenche kinges chyldre<g ref="char:cmbAbbrStroke">̄</g> delyuered. One boyled in ſmithfelde for poyſonyng. The cardynall dyed on ſ. andrewes euen.</p>
+            <p>Anno. do. M.ccccc.xxxi. An. xxiii. H. viij Nycolas Lamberd grocer knight mayre. Rychard Greſham. Edwarde Altam ſhir. ¶This yere the kynge began to buylde his palace at Weſtmynſtre. Griffith Ryſe beheded. In October the king went ouer the ſee &amp; met with the frenche kinge.</p>
+            <p>Anno do. M.ccccc.xxxij. An. xxiiij. H. viij. Stephan Pecoke haberdaſſher knyghte, mayre. Rychard Raynolde, Rycharde Pynſon, Iohn Martyne ſhirifs.</p>
+            <p>¶This yere the kynge was by dew pro<g ref="char:EOLhyphen"/>ces of the law dyuorced from lady kathe<g ref="char:EOLhyphen"/>ryne his brothers wyfe and then he mary<g ref="char:EOLunhyphen"/>ed lady An Bulleyn which was crowned quene on Whitſondaye. And on mydſo<g ref="char:EOLhyphen"/>mer
+<pb facs="tcp:10403:23"/> day dyed the frenche quene. And on y<hi rend="sup">e</hi> euen of the Natyuytye of our ladye, was borne the lady Elyſabeth at Grenewyche.</p>
+            <p>Anno do. M.ccccc.xxxiii. An. xxv. H. viii. Xp<g ref="char:cmbAbbrStroke">̄</g>opher Aſcue draper knyght, mayre. Wyllyam Forman, Thomas Kitſon, ſhir. ¶This yere one Wolfe &amp; his wyfe were hanged for kyllynge of two marchauntes ſtraungers on the Themmes.</p>
+            <p>¶Alſo in Apryll was the Nunne called y<hi rend="sup">e</hi> holy mayde of Kent, two monkes, &amp; two freers hanged and heeded for treaſon, blaſ<g ref="char:EOLunhyphen"/>phemye, and Hypocryſye.</p>
+            <p>¶A peace concluded with Scotlande.</p>
+            <p>Anno do. M.ccccc.xxxiiii. An. xxvi. H. viii. Iohn<g ref="char:cmbAbbrStroke">̄</g> Cha<g ref="char:cmbAbbrStroke">̄</g>pneys ſkynner knyght, mayre. Nycolas Leueſo<g ref="char:cmbAbbrStroke">̄</g>, Wylliam Denham ſhir. ¶This yere the erle of Kyldare dyed in y<hi rend="sup">e</hi> tower, and his ſon rebelled and ſlewe the byſſhop of Dyuelyng, wherfore the kinge ſe<g ref="char:cmbAbbrStroke">̄</g>t ſyr William Skeuymon thither T. his yere was graunted to the kynge the fyrſte frutes, &amp; y<hi rend="sup">e</hi> te<g ref="char:cmbAbbrStroke">̄</g>thes of al ſpiritual poſſeſſio<g ref="char:cmbAbbrStroke">̄</g>s.</p>
+            <pb facs="tcp:10403:24"/>
+            <p>In Iune was the byſſhop of Rocheſtre, &amp; ſyr Tho. Moore beheded for denying the king to be ſupreme heed of y<hi rend="sup">e</hi> church of En<g ref="char:EOLhyphen"/>glande. And this yere were .iii. monkes of y<hi rend="sup">e</hi> charterhouſe executed for y<hi rend="sup">e</hi> ſame offe<g ref="char:cmbAbbrStroke">̄</g>ce.</p>
+            <p>Anno. M.ccccc.xxxv. An. xxvii. H. viii. Iohn<g ref="char:cmbAbbrStroke">̄</g> Aleyn meccer knyghte, the .ii. tyme mayr. Hu<g ref="char:cmbAbbrStroke">̄</g>frey Mo<g ref="char:cmbAbbrStroke">̄</g>mouth, Io. Cotes, ſhir. ¶This yere in Ianuarye dyed lady Ka<g ref="char:EOLhyphen"/>theryne prynces dowayer, &amp; is buryed at Peterborow. This yere was quene Anne attaynted of treaſon &amp; beheded, &amp; the kyng maryed lady Iane Seymer. And in octo<g ref="char:EOLhyphen"/>ber bega<g ref="char:cmbAbbrStroke">̄</g> a folyſh comocyo<g ref="char:cmbAbbrStroke">̄</g> i<g ref="char:cmbAbbrStroke">̄</g> Lyncolnſhyre, and an other in yorke ſhyre by the meanes of the lorde Darcye, y<hi rend="sup">e</hi> lorde Huſey, ſyr Ro<g ref="char:EOLhyphen"/>bart Conſtable, &amp; Robart Aſke / which on<g ref="char:EOLhyphen"/>ly by y<hi rend="sup">e</hi> kinges wyſdo<g ref="char:cmbAbbrStroke">̄</g> and his noble cou<g ref="char:cmbAbbrStroke">̄</g>ſel, were appeaced without bloodſheddynge.</p>
+            <p>Anno. M.ccccc.xxxvi. An. xxviii. H. viii. Syr Rauf Warren knyght, mayre. Rycharde Paget, Wyllyam Bower, ſhir. ¶The Thems ouer froſen in Decembre
+<pb facs="tcp:10403:24"/> wherfore y<hi rend="sup">e</hi> king &amp; the quene rode through London with a goodly co<g ref="char:cmbAbbrStroke">̄</g>pany. Syr frau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ces Bygot, y<hi rend="sup">e</hi> lorde Darcy, ſyr Robart Con<g ref="char:EOLhyphen"/>ſtable &amp; other bega<g ref="char:cmbAbbrStroke">̄</g> a new co<g ref="char:cmbAbbrStroke">̄</g>ſpiracy, whi<g ref="char:EOLhyphen"/>che were attaynted, &amp; put to deth in Iune. ¶In February was Thomas FitzGar<g ref="char:EOLhyphen"/>red &amp; .v. of his vncles hanged, drawen, and quartred. And on ſ. Edwardes euen was borne at Hampton court prince Edward.</p>
+            <p>The .xxiiii. daye of October dyed quene Iane, and is buryed at wynſore.</p>
+            <p>Anno. M.ccccc.xxxvii. An. xxix. H. viii. Syr Rycharde Greſſham knyght, mayre. Iohn<g ref="char:cmbAbbrStroke">̄</g> Greſſham, Thomas Lewe<g ref="char:cmbAbbrStroke">̄</g> / ſher. ¶In May was frere Foreſt hanged and brent in ſmythfelde for treaſon &amp; hereſye. And this yere all ydolatry was forbydde<g ref="char:cmbAbbrStroke">̄</g>, &amp; dyuers ymages that had Ingynnes to make theyr eyen ope<g ref="char:cmbAbbrStroke">̄</g> &amp; ſhut, &amp; many other falſe iuglinges deſtroyed, &amp; all freers and monkes chaunged theyr garmentes.</p>
+            <p>Anno. M.ccccc.xxxviii. An. xxx. H. viii. Syr wyllyam Forman mayre.</p>
+            <p>Willia<g ref="char:cmbAbbrStroke">̄</g> Wylkynſon Nycolas gybſon. ſhir.
+<pb facs="tcp:10403:25"/> ¶This yere in Decembre was the Mar<g ref="char:EOLhyphen"/>ques of Exceſtre, the lorde Mountacute, &amp; ſir Edwarde Neuel beheded for hygh trea<g ref="char:EOLunhyphen"/>ſon duly ꝓued. And in Maye the cytizins of London muſtered all in whyt harnys &amp; cotes of whyte ſylke and white cloth, with chaynes of golde, in thre greate battayles, to the greate wonder of ſtraungers.</p>
+            <p>Anno do. M.ccccc.xxxix. An. xxxi. H. viii. Syr Wyllyam Holleys knyght, mayre. Iohn<g ref="char:cmbAbbrStroke">̄</g> Fayry, Thomas Huntlowe, ſhir. ¶In Noue<g ref="char:cmbAbbrStroke">̄</g>bre were thabbots of Redi<g ref="char:cmbAbbrStroke">̄</g>g, Glaſtenbury, and Colcheſtre attaynted of high treaſon, &amp; like traytours put to deth. ☞In Ianuarye was receyued w<hi rend="sup">t</hi> greate tryu<g ref="char:cmbAbbrStroke">̄</g>ph the noble lady Anne, ſiſter to Wyl<g ref="char:EOLhyphen"/>lyam duke of Cleue, Iulyers, Gelders, &amp; Berge, and maryed to the kynge our ſoue<g ref="char:EOLhyphen"/>raygne lorde, to whome God ſend long lyfe togyther with moche procreacion, &amp; long cotynuaunce of theyr iſſue. Amen.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶Imprynted at London in Fleteſtrete, at the ſigne of the Sonne, by Iohn Byddell.</p>
+            <pb facs="tcp:10403:25"/>
+         </div>
+      </back>
+   </text>
+</TEI>
